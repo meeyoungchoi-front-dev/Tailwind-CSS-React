@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+
+
+.tshirt-header {
+  display: inline-block;
+  margin-left:-33rem;
+}
+
+.container-right {
+  width: 94rem;
+}
+
+.tshirt-content {
+  display: inline-block;
+  margin-left: -36rem;
+}
+
+ul {
+  display: inline-block;
+  margin-right:16.4px;
+}
+
+h2 {
+  display: inline-block;
+  margin-left: -32rem;
+}
+
+
+.color-button {
+  display: inline-block;
+}
+
+.size-buttons {
+  margin-left: 12rem;
+}
