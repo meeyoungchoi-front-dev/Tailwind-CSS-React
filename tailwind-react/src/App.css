@@ -40,7 +40,7 @@
 
 .tshirt-header {
   display: inline-block;
-  margin-left:-33rem;
+  margin-left:-30rem;
 }
 
 .container-right {
@@ -49,7 +49,7 @@
 
 .tshirt-content {
   display: inline-block;
-  margin-left: -36rem;
+  margin-left: -34rem;
 }
 
 ul {
@@ -57,11 +57,10 @@ ul {
   margin-right:16.4px;
 }
 
-h2 {
+.description {
   display: inline-block;
-  margin-left: -32rem;
+  margin-left: -28rem;
 }
-
 
 .color-button {
   display: inline-block;
